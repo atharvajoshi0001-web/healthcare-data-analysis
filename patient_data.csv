@@ -1,0 +1,51 @@
+Patient_ID,Age,Gender,Disease,Hospital_Stay_Days,Treatment_Cost
+P001,45,Male,Diabetes,5,35000
+P002,32,Female,Asthma,3,18000
+P003,60,Male,Heart Disease,8,75000
+P004,29,Female,Migraine,2,12000
+P005,50,Male,Hypertension,4,28000
+P006,41,Female,Diabetes,6,42000
+P007,36,Male,Asthma,3,20000
+P008,65,Female,Heart Disease,9,82000
+P009,55,Male,Arthritis,7,46000
+P010,27,Female,Anemia,2,15000
+P011,48,Male,Hypertension,5,30000
+P012,34,Female,Thyroid,4,25000
+P013,59,Male,Diabetes,6,48000
+P014,43,Female,Asthma,3,21000
+P015,70,Male,Heart Disease,10,90000
+P016,38,Female,Migraine,2,14000
+P017,52,Male,Arthritis,6,44000
+P018,31,Female,Anemia,3,16000
+P019,46,Male,Hypertension,4,29000
+P020,28,Female,Thyroid,3,23000
+P021,62,Male,Diabetes,7,52000
+P022,35,Female,Asthma,4,22000
+P023,57,Male,Heart Disease,8,78000
+P024,40,Female,Migraine,2,13000
+P025,49,Male,Hypertension,5,31000
+P026,33,Female,Anemia,3,17000
+P027,54,Male,Arthritis,6,45000
+P028,29,Female,Thyroid,2,21000
+P029,61,Male,Diabetes,7,54000
+P030,37,Female,Asthma,4,23000
+P031,68,Male,Heart Disease,9,86000
+P032,42,Female,Migraine,3,15000
+P033,51,Male,Hypertension,5,32000
+P034,30,Female,Anemia,2,16000
+P035,56,Male,Arthritis,7,47000
+P036,39,Female,Thyroid,4,26000
+P037,63,Male,Diabetes,8,58000
+P038,34,Female,Asthma,3,21000
+P039,58,Male,Heart Disease,8,80000
+P040,26,Female,Migraine,2,11000
+P041,47,Male,Hypertension,4,30000
+P042,32,Female,Anemia,3,16500
+P043,53,Male,Arthritis,6,46000
+P044,28,Female,Thyroid,2,22000
+P045,64,Male,Diabetes,7,56000
+P046,36,Female,Asthma,4,22500
+P047,69,Male,Heart Disease,10,92000
+P048,44,Female,Migraine,3,15500
+P049,55,Male,Hypertension,5,33000
+P050,31,Female,Anemia,3,17000
